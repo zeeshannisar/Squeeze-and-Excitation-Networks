@@ -2,7 +2,7 @@
 [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) implementation in Tensorflow 2.
 
 <p align="center">
-    <img src="https://github.com/zeeshannisar/CX_GAN/blob/master/ReadMe%20Images/integrated%20model.png" >
+    <img src="https://github.com/zeeshannisar/Squeeze-and-Excitation-Networks/blob/main/squeeze-excite-block.jpeg" >
 </p>
 
 ```
